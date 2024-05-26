@@ -27,7 +27,7 @@
 |___|___|  /__|_ \ /_______  / ____|\___  >
 ⠀⠀⠀⠀⠀⠀⠀⠀\/     \/         \/\/         \/
 ```
-**The storyteller to your canvas of skin**
+**Oracle of the Ink**
 # About
 Welcome to InkEye, home to the open-source project of iconography. Our vision is to better tell people's stories through the symbols on their skin. InkEye leverages machine learning for object detection combined with crowd-sourced data for the meaning behind each detection.
 # Development
